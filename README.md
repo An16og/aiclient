@@ -1,10 +1,14 @@
 # AIClient
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 A lightweight Spring Boot library that provides a unified interface for interacting with multiple Large Language Model (LLM) providers.
 
 Instead of rewriting your application every time you switch AI providers, AIClient lets you interact with them through a common interface.
 
 ---
+
 
 ## Features
 
