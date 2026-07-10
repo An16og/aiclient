@@ -64,9 +64,14 @@ System.out.println(response.getResponse());
 
 ## Configuration
 
-```properties
+```gemini properties
 ai.gemini.api-key=YOUR_API_KEY
-ai.gemini.model=gemini-2.5-flash
+ai.gemini.model=gemini-3.5-flash
+```
+
+```ollama properties
+ai.ollama.BaseUrl=YOUR_URL
+ai.ollama.model=qwen-3.6
 ```
 
 ---
@@ -84,8 +89,7 @@ ai.gemini.model=gemini-2.5-flash
 
 ### v0.2
 
-- OpenAI Provider
-- Ollama Provider
+
 - Better exception handling
 
 ### v0.3
