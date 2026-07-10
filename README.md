@@ -8,6 +8,9 @@ A lightweight Spring Boot library that provides a unified interface for interact
 Instead of rewriting your application every time you switch AI providers, AIClient lets you interact with them through a common interface.
 
 ---
+## Demo
+<img width="942" height="212" alt="Screenshot 2026-07-10 102051" src="https://github.com/user-attachments/assets/e1a7f063-02c9-4b5c-81a2-0951729cacb4" />
+
 
 
 ## Features
